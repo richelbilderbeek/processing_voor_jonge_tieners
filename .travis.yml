@@ -1,8 +1,8 @@
-language: cpp
+language: bash
 dist: trusty
 
 install:
-  - sudo apt-get install coreutils
+  - sudo apt-get install coreutils pandoc
 
 script: 
   - cd scripts
