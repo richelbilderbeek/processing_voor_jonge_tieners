@@ -4,6 +4,13 @@
 
 In de map '[boeken](boeken/README.md)'.
 
+## Zijn er cursussen die deze boeken gebruiken?
+
+Jazeker:
+
+ * Appingedam, maandagavond (in de maak)
+ * [Groningen, donderdagavond](https://github.com/richelbilderbeek/Dojo)
+
 ## Wat is de licensie op de boeken?
 
 # Voorwoord
