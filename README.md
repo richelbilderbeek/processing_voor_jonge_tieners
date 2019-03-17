@@ -1,6 +1,6 @@
 # processing_voor_jonge_tieners
 
-Cursus 'Processing voor jonge tieners'.
+Cursus 'Processing voor jonge tieners' ![CC-BY-NC-SA](CC-BY-NC-SA.png).
 
  * [boeken](boeken/README.md): download hier de boeken op A4 of A5 formaat
  * [hoofdstukken](hoofdstukken/README.md): dit zijn de losse hoofdstukken
