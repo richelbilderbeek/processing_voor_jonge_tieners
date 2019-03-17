@@ -8,9 +8,8 @@ before_install:
   - sudo apt update -qq
 
 install:
-  - sudo apt-get install coreutils pandoc 
+  - sudo apt-get install coreutils pandoc poppler-utils fragmaster
   - apt-cache search pdflatex
-  - apt-cache search pdfunite
 
 script: 
   - cd scripts
