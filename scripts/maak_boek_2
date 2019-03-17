@@ -2,10 +2,7 @@
 
 # Concatenate all Markdown files first, convert those to one PDF
 
-my_script_path=`realpath $0`
-my_folder_path=`dirname $my_script_path`
-build_folder=$my_folder_path/build
-#echo $build_folder
+build_folder=build
 
 rm -rf build
 mkdir build
@@ -15,12 +12,10 @@ if [ ! -d $build_folder ]; then
   exit 1
 fi
 
-cd ..
-cd hoofdstukken
-cd Voorwoord                ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
-cd LineStroke               ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
-cd BalEeuwigNaarRechts      ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
-cd RectFill                 ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md; cd ..
+cp ../hoofdstukken/Voorwoord/*.* $build_folder          ; mv $build_folder/README.md $build_folder/README_00.md
+cp ../hoofdstukken/LineStroke/*.* $build_folder         ; mv $build_folder/README.md $build_folder/README_01.md
+cp ../hoofdstukken/BalEeuwigNaarRechts/*.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md
+cp ../hoofdstukken/RectFill/*.* $build_folder           ; mv $build_folder/README.md $build_folder/README_03.md
 
 cd $build_folder
 
