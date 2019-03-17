@@ -16,6 +16,6 @@ Cursus 'Processing voor jonge tieners'.
 ![CC-BY-NC-SA](CC-BY-NC-SA.png)
 
 ```
-(C) Richèl Bilderbeek en alle docenten en alle leerlingen, 2016
+(C) Richèl Bilderbeek en alle docenten en alle leerlingen
 ```
 
