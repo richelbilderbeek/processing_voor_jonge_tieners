@@ -1,0 +1,14 @@
+dist: trusty
+
+script: 
+  - cd scripts
+  - ./maak_boek_voorpaginas
+  - ./maak_boek_1
+  - ./maak_boek_2
+  - ./maak_boek_3
+  - ./maak_boek_4
+  - ./maak_boek_5
+  - ./maak_boek_6
+  - ./maak_boek_7
+  - ./maak_boek_8
+  - ./maak_boek_minim
