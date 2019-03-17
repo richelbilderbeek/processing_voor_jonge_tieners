@@ -21,7 +21,7 @@ script:
   - texliveonfly --arguments="--shell-escape" ./main.tex
 
 script: 
-  - sudo apt-get install coreutils pandoc poppler-utils fragmaster texlive-fonts-recommended
+  - sudo apt-get install coreutils pandoc poppler-utils fragmaster texlive-fonts-recommended bookletimposer
   - cd scripts
   - ./maak_boek_voorpaginas
   - ./maak_boek_1
