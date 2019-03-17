@@ -1,8 +1,6 @@
 # Voorwoord
 
-![Het logo van De Jonge Onderzoekers](DjogLogo.png)
-
-Dit is het Processing boek van de Dojo. 
+Dit is een boek over Processing, geschreven voor jonge tieners. 
 Processing is een programmeertaal. 
 Dit boek leert je die programmeertaal.
 
@@ -12,12 +10,13 @@ Dit boek heeft een CC-BY-NC-SA licensie.
 
 ![De licensie van dit boek](CC-BY-NC-SA.png)
 
-(C) Dojo Groningen 2016-2018
+(C) Richel Bilderbeek en alle docenten en alle leerlingen, 2016
+
+Met dit boekje mag je alles doen wat je wilt, als je maar verwijst naar
+de oorsprongelijke versie op deze website:
+[https://github.com/richelbilderbeek/processing_voor_jonge_tieners](https://github.com/richelbilderbeek/processing_voor_jonge_tieners).
+Dit boekje zal altijd gratis, vrij en open blijven.
 
 Het is nog een beetje een slordig boek.
 Er zitten tiepvauten in en de opmaak is ni`et altij`d *even mo*oi.
-
-Daarom staat dit boek op een GitHub.
-Om precies te zijn, op [https://github.com/richelbilderbeek/Dojo](https://github.com/richelbilderbeek/Dojo).
-Hierdoor kan iedereen die dit boek te slordig vindt
-minder slordig maken.
+Omdat dit boek op een website staat, kan iedereen die dit boek te slordig vindt minder slordig maken.
