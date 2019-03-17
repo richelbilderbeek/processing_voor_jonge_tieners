@@ -34,7 +34,7 @@ cat README_04.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> READM
 pandoc README.md -o Boek_3.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
 mv Boek_3.pdf ../../boeken/Boek_3_zonder_voorpagina.pdf
 
-cd ../../Boek
+cd ../../boeken
 pdfunite Boek_voorpagina_3.pdf Boek_3_zonder_voorpagina.pdf Boek_3.pdf
 
 # Make booklet

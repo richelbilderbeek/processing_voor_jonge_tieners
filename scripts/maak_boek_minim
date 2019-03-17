@@ -30,7 +30,7 @@ cat README_02.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> READM
 pandoc README.md -o Boek_Minim.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
 mv Boek_Minim.pdf ../../boeken/Boek_Minim_zonder_voorpagina.pdf
 
-cd ../../Boek
+cd ../../boeken
 pdfunite Boek_voorpagina_Minim.pdf Boek_Minim_zonder_voorpagina.pdf Boek_Minim.pdf
 
 # Make booklet
