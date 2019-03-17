@@ -16,7 +16,7 @@ if [ ! -d $build_folder ]; then
 fi
 
 cd ..
-cd LessenProcessing
+cd hoofdstukken
 cd Voorwoord   ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
 cd Toetsenbord1; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
 cd Toetsenbord2; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..

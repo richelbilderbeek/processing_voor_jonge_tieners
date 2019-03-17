@@ -16,7 +16,7 @@ if [ ! -d $build_folder ]; then
 fi
 
 cd ..
-cd LessenProcessing
+cd hoofdstukken
 cd Voorpagina
 cp *.* $build_folder
 cd ..
