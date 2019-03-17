@@ -34,7 +34,7 @@ cat README_04.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> READM
 cat README_05.md >> README.md; echo " " >> README.md; echo "\pagebreak" >> README.md; echo " " >> README.md
 
 pandoc README.md -o Boek_4.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
-mv Boek_4.pdf ../../Boek/Boek_4_zonder_voorpagina.pdf
+mv Boek_4.pdf ../../boeken/Boek_4_zonder_voorpagina.pdf
 
 cd ../../Boek
 pdfunite Boek_voorpagina_4.pdf Boek_4_zonder_voorpagina.pdf Boek_4.pdf

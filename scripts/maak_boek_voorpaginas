@@ -22,12 +22,12 @@ cp *.* $build_folder
 cd ..
 cd $build_folder
 
-pandoc Voorpagina1.md -o ../../Boek/Boek_voorpagina_1.pdf
-pandoc Voorpagina2.md -o ../../Boek/Boek_voorpagina_2.pdf
-pandoc Voorpagina3.md -o ../../Boek/Boek_voorpagina_3.pdf
-pandoc Voorpagina4.md -o ../../Boek/Boek_voorpagina_4.pdf
-pandoc Voorpagina5.md -o ../../Boek/Boek_voorpagina_5.pdf
-pandoc Voorpagina6.md -o ../../Boek/Boek_voorpagina_6.pdf
-pandoc Voorpagina7.md -o ../../Boek/Boek_voorpagina_7.pdf
-pandoc Voorpagina8.md -o ../../Boek/Boek_voorpagina_8.pdf
-pandoc VoorpaginaMinim.md -o ../../Boek/Boek_voorpagina_Minim.pdf
+pandoc Voorpagina1.md -o ../../boeken/Boek_voorpagina_1.pdf
+pandoc Voorpagina2.md -o ../../boeken/Boek_voorpagina_2.pdf
+pandoc Voorpagina3.md -o ../../boeken/Boek_voorpagina_3.pdf
+pandoc Voorpagina4.md -o ../../boeken/Boek_voorpagina_4.pdf
+pandoc Voorpagina5.md -o ../../boeken/Boek_voorpagina_5.pdf
+pandoc Voorpagina6.md -o ../../boeken/Boek_voorpagina_6.pdf
+pandoc Voorpagina7.md -o ../../boeken/Boek_voorpagina_7.pdf
+pandoc Voorpagina8.md -o ../../boeken/Boek_voorpagina_8.pdf
+pandoc VoorpaginaMinim.md -o ../../boeken/Boek_voorpagina_Minim.pdf
