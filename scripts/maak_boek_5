@@ -2,9 +2,7 @@
 
 # Concatenate all Markdown files first, convert those to one PDF
 
-my_script_path=`realpath $0`
-my_folder_path=`dirname $my_script_path`
-build_folder=$my_folder_path/build
+build_folder=build
 #echo $build_folder
 
 rm -rf build
@@ -15,13 +13,11 @@ if [ ! -d $build_folder ]; then
   exit 1
 fi
 
-cd ..
-cd hoofdstukken
-cd Voorwoord   ; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_00.md; cd ..
-cd Toetsenbord1; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md; cd ..
-cd Toetsenbord2; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md; cd ..
-cd Toetsenbord3; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md; cd ..
-cd Toetsenbord4; cp *.* $build_folder; mv $build_folder/README.md $build_folder/README_04.md; cd ..
+cp ../hoofdstukken/Voorwoord/*.* $build_folder   ; mv $build_folder/README.md $build_folder/README_00.md
+cp ../hoofdstukken/Toetsenbord1/*.* $build_folder; mv $build_folder/README.md $build_folder/README_01.md
+cp ../hoofdstukken/Toetsenbord2/*.* $build_folder; mv $build_folder/README.md $build_folder/README_02.md
+cp ../hoofdstukken/Toetsenbord3/*.* $build_folder; mv $build_folder/README.md $build_folder/README_03.md
+cp ../hoofdstukken/Toetsenbord4/*.* $build_folder; mv $build_folder/README.md $build_folder/README_04.md
 
 cd $build_folder
 
