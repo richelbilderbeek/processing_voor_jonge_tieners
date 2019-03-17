@@ -1,16 +1,27 @@
-language: cpp
-dist: trusty
+language: generic
 
+# Dependency of the minted package
 before_install:
-  # Fix https://travis-ci.org/richelbilderbeek/processing_voor_jonge_tieners/builds/507453666#L448
-  - sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 762E3157
-  - sudo add-apt-repository --yes ppa:ubuntu-toolchain-r/test
-  - sudo apt update -qq
+ - sudo apt-get install python-pygments
 
 install:
-  - sudo apt-get install coreutils pandoc poppler-utils fragmaster texlive-fonts-recommended
+ - source ./texlive/texlive_install.sh
+cache:
+  directories:
+    - /tmp/texlive
+    - $HOME/.texlive
+
+# Change working directory so including files will work
+before_script: cd $TRAVIS_BUILD_DIR/src/
+
+script:
+  # texliveonfly will download packages automatically, running pdflatex by default. Change compiler with e.g. --compiler=lualatex
+  - texliveonfly --arguments="--shell-escape" ./main.tex
+  # Compile twice to fix possible references
+  - texliveonfly --arguments="--shell-escape" ./main.tex
 
 script: 
+  - sudo apt-get install coreutils pandoc poppler-utils fragmaster texlive-fonts-recommended
   - cd scripts
   - ./maak_boek_voorpaginas
   - ./maak_boek_1
