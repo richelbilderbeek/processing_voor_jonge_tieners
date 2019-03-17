@@ -8,8 +8,7 @@ before_install:
   - sudo apt update -qq
 
 install:
-  - sudo apt-get install coreutils pandoc poppler-utils fragmaster
-  - apt-cache search pdflatex
+  - sudo apt-get install coreutils pandoc poppler-utils fragmaster texlive-fonts-recommended
 
 script: 
   - cd scripts
