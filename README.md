@@ -11,7 +11,7 @@ Cursus 'Processing voor jonge tieners'.
  * [scripts](scripts/README.md): dit zijn scripts om van de hoofdstukken de boeken te maken
  * [veelgestelde vragen](faq.md): hier staan de veel gestelde vragen
 
-## Licensue
+## Licensie
 
 ![CC-BY-NC-SA](CC-BY-NC-SA.png)
 
