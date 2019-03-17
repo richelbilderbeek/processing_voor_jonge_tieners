@@ -2,10 +2,7 @@
 
 # Concatenate all Markdown files first, convert those to one PDF
 
-my_script_path=`realpath $0`
-my_folder_path=`dirname $my_script_path`
-build_folder=$my_folder_path/build
-#echo $build_folder
+build_folder=build
 
 rm -rf build
 mkdir build
@@ -15,11 +12,7 @@ if [ ! -d $build_folder ]; then
   exit 1
 fi
 
-cd ..
-cd hoofdstukken
-cd Voorpagina
-cp *.* $build_folder
-cd ..
+cp ../hoofdstukken/Voorpagina/*.* $build_folder
 cd $build_folder
 
 pandoc Voorpagina1.md -o ../../boeken/Boek_voorpagina_1.pdf
