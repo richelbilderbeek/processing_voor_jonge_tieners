@@ -1,8 +1,14 @@
 language: bash
 dist: trusty
 
+before_install:
+  - sudo add-apt-repository --yes ppa:ubuntu-toolchain-r/test
+  - sudo apt update -qq
+
 install:
-  - sudo apt-get install coreutils pandoc pdflatex pdfunite
+  - sudo apt-get install coreutils pandoc 
+  - apt-cache search pdflatex
+  - apt-cache search pdfunite
 
 script: 
   - cd scripts
