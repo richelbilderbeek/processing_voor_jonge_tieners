@@ -71,7 +71,7 @@ De breedte van het scherm heet `width` en de hoogte heet `height`
 ![Computer](EmojiComputer.png) | ![Smiley](EmojiSmiley.png)
 :-------------:|:----------------------------------------: 
 `width`|'Lieve computer, vul hier in hoeveel pixels het venster breed is.'
-`height`|'Lieve computer, vul hier in hoeveel pixels het venster breed is.'
+`height`|'Lieve computer, vul hier in hoeveel pixels het venster hoog is.'
 
 Deze getallen worden bepaald zodra je size gebruikt om de grootte van je scherm te defineren.
 
