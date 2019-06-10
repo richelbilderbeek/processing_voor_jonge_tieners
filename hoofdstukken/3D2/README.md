@@ -52,7 +52,7 @@ Als je goed kijkt zie je dat het witste gedeelte van de bal ook van plek verande
  * Zorg dat de bal nu ook naar onder en boven kan gaan, met de toetsen `w` en `s`
  * Maak een nieuwe variabele, bijvoorbeeld `y`, met als beginwaarde `height / 2`
 
-![3D 2: opdracht 2](3D1_2.png)
+![3D 2: opdracht 2](3D2_2.png)
 
 \pagebreak
 
@@ -88,5 +88,5 @@ void draw()
 
 Dit ziet er misschien anders uit dan je verwacht!
 
-![3D 2: opdracht 3](3D1_3.png)
+![3D 2: opdracht 3](3D2_3.png)
 
