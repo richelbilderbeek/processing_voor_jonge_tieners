@@ -38,7 +38,7 @@ Wat zie je?
 
 ## 3D 2: oplossing 1 
 
-![3D 2: oplossing 1](3D1_2.png)
+![3D 2: oplossing 1](3D2_2.png)
 
 Je ziet een bal die je met `a` en `d` naar 
 links en rechts kunt bewegen.
