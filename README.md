@@ -13,7 +13,7 @@ Cursus 'Processing voor jonge tieners'.
 
 ## Licensie
 
-![CC-BY-NC-SA](CC-BY-NC-SA.png)
+![CC-BY-NC-SA](pics/CC-BY-NC-SA.png)
 
 ```
 (C) Richèl Bilderbeek en alle docenten en alle leerlingen
