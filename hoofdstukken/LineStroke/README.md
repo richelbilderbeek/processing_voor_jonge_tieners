@@ -258,4 +258,4 @@ ook willekeurig zijn.
 
 ## `line` en `stroke`: links
 
- * `line` en `stroke`: [YouTube](https://youtu.be/94cuhGWpdjw), [mp4](http://www.richelbilderbeek/line_en_stroke.mp4)
+ * `line` en `stroke`: [YouTube](https://youtu.be/94cuhGWpdjw), [mp4](http://www.richelbilderbeek.nl/line_en_stroke.mp4)

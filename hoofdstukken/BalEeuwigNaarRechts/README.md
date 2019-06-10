@@ -316,4 +316,4 @@ Laat de bal nu eeuwig schuin naar linksonder gaan.
 
 ## Bal die eeuwig naar rechts gaat: links
 
- * Bal die eeuwig naar rechts gaat: [YouTube](https://youtu.be/k-7Ji0_HcAc), [mp4](http://www.richelbilderbeek/bal_eeuwig_naar_rechts.mp4)
+ * Bal die eeuwig naar rechts gaat: [YouTube](https://youtu.be/k-7Ji0_HcAc), [mp4](http://www.richelbilderbeek.nl/bal_eeuwig_naar_rechts.mp4)

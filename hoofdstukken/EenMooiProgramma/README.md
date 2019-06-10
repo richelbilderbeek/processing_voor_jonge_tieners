@@ -59,4 +59,4 @@ Voor nu is het genoeg te weten dat het iets moois doet.
 
 ## Links
 
- * Een Mooi Programma: [YouTube](https://www.youtube.com/watch?v=TW6fIxI-Pl4), [mp4](http://www.richelbilderbeek/een_mooi_programma.mp4)
+ * Een Mooi Programma: [YouTube](https://www.youtube.com/watch?v=TW6fIxI-Pl4), [mp4](http://www.richelbilderbeek.nl/een_mooi_programma.mp4)

@@ -342,6 +342,6 @@ void draw()
 
 ## Bal naar rechts: links (naar websites)
 
- * Eerste gedeelte: [YouTube](https://www.youtube.com/watch?v=fZDsZgqxBM0) [mp4](http://www.richelbilderbeek/bal_naar_rechts_1.mp4)
- * Wat is een variabele: [YouTube](https://youtu.be/3cXH3LrBGrA), [mp4](http://www.richelbilderbeek/bal_naar_rechts_variabele.mp4)
- * Tweede gedeelte: [YouTube](https://youtu.be/KxtQ00ugBvw), [mp4](http://www.richelbilderbeek/bal_naar_rechts_2.mp4)
+ * Eerste gedeelte: [YouTube](https://www.youtube.com/watch?v=fZDsZgqxBM0) [mp4](http://www.richelbilderbeek.nl/bal_naar_rechts_1.mp4)
+ * Wat is een variabele: [YouTube](https://youtu.be/3cXH3LrBGrA), [mp4](http://www.richelbilderbeek.nl/bal_naar_rechts_variabele.mp4)
+ * Tweede gedeelte: [YouTube](https://youtu.be/KxtQ00ugBvw), [mp4](http://www.richelbilderbeek.nl/bal_naar_rechts_2.mp4)
