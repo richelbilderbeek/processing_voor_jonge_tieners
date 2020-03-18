@@ -4,8 +4,10 @@ Dit zijn de Processing lessen
 
 ## Programmeren
 
+
 ## Processing
 
+ * Processing installeren [YouTube](https://youtu.be/iUIJjxgKBk8) [ogv](http://richelbilderbeek.nl/processing_installeren.ogv)
  * [Processing opstarten op cursus laptop](./ProcessingOpstartenOpCursusLaptop/README.md)
  * [Processing installeren op Linux](./ProcessingInstallerenOpLinux/README.md)
  * [Processing installeren op Windows](./ProcessingInstallerenOpWindows/README.md)
