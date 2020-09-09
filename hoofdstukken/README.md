@@ -42,22 +42,22 @@ Hfd|Omschrijving
 
 Hfd|Omschrijving
 ---|---------------------------------------------------------------
--  | **Boek 5**
+.  | **Boek 5**
 17 |[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
 18 |[Toetsenbord 2: Tron](./Toetsenbord2/README.md)
 19 |[Toetsenbord 3: Terminator II](./Toetsenbord3/README.md)
 20 |[Toetsenbord 4: Paratrooper](./Toetsenbord4/README.md)
--  | **Boek 6**
+.  | **Boek 6**
 21 |[3D 1: bal bewegen](./3D1/README.md)
 22 |[3D 2: bal besturen](./3D2/README.md)
 23 |[3D 3: bal en kubus](./3D3/README.md)
 24 |[3D 4: belichting](./3D4/README.md)
- - | **Boek 7**
+.  | **Boek 7**
 25 |[Sinus en cosinus 1: grafiek](./SinusEnCosinus1/README.md)
 26 |[Sinus en cosinus 2: tekenen](./SinusEnCosinus2/README.md)
 27 |[Sinus en cosinus 3: planeten](./SinusEnCosinus3/README.md)
 28 |[Sinus en cosinus 4: schieten](./SinusEnCosinus4/README.md)
- - | **Boek 8**
+.  | **Boek 8**
 29 |[Muis binnen vierkant](./MuisBinnenVierkant/README.md) 
 30 |[Muis binnen cirkel](./MuisBinnenCirkel/README.md) 
 31 |[Cirkels botsen](./CirkelsBotsen/README.md)
@@ -69,17 +69,16 @@ Hfd|Omschrijving
 
 Hfd|Omschrijving
 ---|---------------------------------------------------------------
- - | **Boek 9**
+.  | **Boek 9**
 34 |[Functies les 1: Tekening](./FunctiesTekening/README.md)
 35 |[Functies les 2: Schaapkleur](./FunctiesSchaapkleur/README.md)
 36 |[Functies les 3: Poten](./FunctiesPoten/README.md)
 37 |Functies les 4
- - | **Boek 9**
+.  | **Boek 9**
 29 |[Muis les 1: Positie](./MuisPositie/README.md)
 30 |[Muis les 2: Positie](./MuisPositie/README.md)
 31 |[Muis les 3: Knoppen](./MuisKnoppen/README.md)
 32 |[Muis les 4: Scrollen](./MuisScroll/README.md)
-
 
 ### Ongesorteerd
 
