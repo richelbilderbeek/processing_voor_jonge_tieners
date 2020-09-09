@@ -15,7 +15,7 @@ Dit zijn de Processing lessen
 
 ### Leskaart 1: Graphics
 
-#  |Omschrijving
+ # |Omschrijving
 ---|---------------------------------------------------------------
 .  |**Boek 1**
 1  |[Een mooi programma](./EenMooiProgramma/README.md)
