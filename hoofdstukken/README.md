@@ -40,7 +40,7 @@ Hfd|Omschrijving
 
 ### Leskaart 2: Games 1
 
-#  |Omschrijving
+Hfd|Omschrijving
 ---|---------------------------------------------------------------
 -  | **Boek 5**
 17 |[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
@@ -67,7 +67,7 @@ Hfd|Omschrijving
 
 :construction:
 
-#  |Omschrijving
+Hfd|Omschrijving
 ---|---------------------------------------------------------------
  - | **Boek 9**
 34 |[Functies les 1: Tekening](./FunctiesTekening/README.md)
