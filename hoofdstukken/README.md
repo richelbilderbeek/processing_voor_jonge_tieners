@@ -17,21 +17,21 @@ Dit zijn de Processing lessen
 
 #  |Omschrijving
 ---|---------------------------------------------------------------
- - | **Boek 1**
- 1 |[Een mooi programma](./EenMooiProgramma/README.md)
- 2 |[Bal naar rechts](./BalNaarRechts/README.md)
- 3 |[`width` en `height`](./WidthHeight/README.md)
- 4 |[`point` en `random`](./PointRandom/README.md)
- - | **Boek 2**
- 5 |[`line` en `stroke`](./LineStroke/README.md)
- 6 |[Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
- 7 |[`rect` en `fill`](./RectFill/README.md)
- - | **Boek 3**
- 8 |[Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
- 9 |[`ellipse` en `background`](./EllipseBackground/README.md)
+-  | **Boek 1**
+1  |[Een mooi programma](./EenMooiProgramma/README.md)
+2  |[Bal naar rechts](./BalNaarRechts/README.md)
+3  |[`width` en `height`](./WidthHeight/README.md)
+4  |[`point` en `random`](./PointRandom/README.md)
+-  | **Boek 2**
+5  |[`line` en `stroke`](./LineStroke/README.md)
+6  |[Bal die eeuwig rechts gaat](./BalEeuwigNaarRechts/README.md)
+7  |[`rect` en `fill`](./RectFill/README.md)
+-  | **Boek 3**
+8  |[Bal die horizontaal stuitert](./BalDieHorizontaalStuitert/README.md)
+9  |[`ellipse` en `background`](./EllipseBackground/README.md)
 10 |[Bal die schuin stuitert](./BalDieSchuinStuitert/README.md)
 11 | [Tekst](./Text/README.md)
- - | **Boek 4**
+-  | **Boek 4**
 12 |[`fullScreen`](./FullScreen/README.md)
 13 |[`PImage`](./PImage/README.md)
 14 |[Zwaartekracht](./Zwaartekracht/README.md)
@@ -42,12 +42,12 @@ Dit zijn de Processing lessen
 
 #  |Omschrijving
 ---|---------------------------------------------------------------
- - | **Boek 5**
+-  | **Boek 5**
 17 |[Toetsenbord 1: Qix](./Toetsenbord1/README.md)
 18 |[Toetsenbord 2: Tron](./Toetsenbord2/README.md)
 19 |[Toetsenbord 3: Terminator II](./Toetsenbord3/README.md)
 20 |[Toetsenbord 4: Paratrooper](./Toetsenbord4/README.md)
- - | **Boek 6**
+-  | **Boek 6**
 21 |[3D 1: bal bewegen](./3D1/README.md)
 22 |[3D 2: bal besturen](./3D2/README.md)
 23 |[3D 3: bal en kubus](./3D3/README.md)
