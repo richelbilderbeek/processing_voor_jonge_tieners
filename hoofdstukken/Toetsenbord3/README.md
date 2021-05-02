@@ -112,11 +112,8 @@ Zorg ervoor dat *ook* als de speler bovenaan het beeld uit gaat, dat
 float x = 0;
 float y = 0;
 
-// 0: omhoog
-// 1: naar rechts
-// 2: omlaag
-// 3: naar links
-int richting = 1;
+float dx = 0; // Snelheid naar rechts
+float dy = 0; // Snelheid naar onder
 
 void setup()
 {
@@ -129,15 +126,13 @@ void draw()
 {
   if (keyPressed)
   {
-    if (key == 'w') richting = 0;
-    if (key == 'd') richting = 1;
-    if (key == 's') richting = 2;
-    if (key == 'a') richting = 3;
+    if (key == 'w') dy = dy - 0.01;
+    if (key == 'd') dx = dx + 0.01;
+    if (key == 's') dy = dy + 0.01;
+    if (key == 'a') dx = dx - 0.01;
   }
-  if (richting == 0) y = y - 1;
-  if (richting == 1) x = x + 1;
-  if (richting == 2) y = y + 1;
-  if (richting == 3) x = x - 1;
+  x = x + dx;
+  y = y + dy;
   if (x > width) x = 0;
   if (y < 0) y = height;
   point(x,y);
