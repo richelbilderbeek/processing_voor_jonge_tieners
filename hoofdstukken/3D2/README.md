@@ -88,5 +88,5 @@ void draw()
 
 Dit ziet er misschien anders uit dan je verwacht!
 
-![3D 2: opdracht 3](3D2_3.png)
+![3D 2: opdracht 3](3D2_Eindopdracht.png)
 
