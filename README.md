@@ -1,8 +1,8 @@
 # Processing voor jonge tieners
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.com)
 ---|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/processing_voor_jonge_tieners.svg?branch=master)](https://travis-ci.org/richelbilderbeek/processing_voor_jonge_tieners)
+`master`|[![Build Status](https://travis-ci.com/richelbilderbeek/processing_voor_jonge_tieners.svg?branch=master)](https://travis-ci.com/richelbilderbeek/processing_voor_jonge_tieners)
 
 Cursus 'Processing voor jonge tieners'.
 
