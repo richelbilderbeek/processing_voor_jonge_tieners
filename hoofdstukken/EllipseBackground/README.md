@@ -47,7 +47,7 @@ void draw()
 
 ![Opdracht 2](EllipseBackground2.png)
 
-Verander het derde en vierde getal van `ellipse` (de `100`s), 
+Verander het vierde getal van `ellipse` (de `50`), 
 zodat de ovaal twee keer zo hoog wordt.
 
 \pagebreak
