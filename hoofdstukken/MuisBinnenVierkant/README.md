@@ -111,7 +111,7 @@ void draw()
 
 Maak nu het vierkant rood als de muiscursor onder de bovenkant van het vierkant is.
 
-![](MuisBinnenVierkant1.png)
+![](MuisBinnenVierkant4.png)
 
 \pagebreak
 

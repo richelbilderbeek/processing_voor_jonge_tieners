@@ -66,7 +66,7 @@ Wat zie je?
 
 De vierkanten botsen nu horizontaal.
 
-![](VierkantenBotsen1.png)
+![](VierkantenBotsen2.png)
 
 ```c++
 // ...
@@ -106,7 +106,7 @@ Wat zie je?
 
 De vierkanten botsen nu juist behalve bovenin.
 
-![](VierkantenBotsen1.png)
+![](VierkantenBotsen3.png)
 
 ## Vierkanten botsen: eindopdracht
 
