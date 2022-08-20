@@ -13,7 +13,7 @@ Je kunt bijna niet programmeren zonder variabelen.
 
 Type de volgende code over:
 
-```c++
+```processing
 float x = 60;
 
 void setup()
@@ -52,7 +52,7 @@ Verander de code en druk op 'Run'.
 
 Er zit een `250` in de code. Deze naar `300` veranderen is genoeg:
 
-```c++
+```processing
 float x = 60;
 
 void setup()
@@ -88,7 +88,7 @@ Maak de bal nu rond: 40 pixels breed en 40 pixels hoog.
 De `40, 30` zorgt ervoor dat de bal eiv-ormig is. 
 Door dit `40, 40` te maken, wordt de bal rond.
 
-```c++
+```processing
 float x = 60;
 
 void setup()
@@ -122,7 +122,7 @@ Laat de bal twee keer zo snel naar rechts gaan
 
 `x = x + 1;` beweegt de bal. Verander dit naar `x = x + 2;`. De code wordt dan:
 
-```c++
+```processing
 float x = 60;
 
 void setup()
@@ -159,7 +159,7 @@ Kun je de cirkel ook 0 pixels naar rechts laten beginnen?
 
 `float x = 60;` bepaalt dit. Verander dit naar `float x = 0;`. De code wordt dan:
 
-```c++
+```processing
 float x = 0;
 
 void setup()
@@ -196,7 +196,7 @@ Laat de bal nu aan de rechterkant van het scherm beginnen en naar links gaan.
 Om de bal aan de rechtkant te krijgen moet je `float x = 500;` gebruiken (of een ander hoog getal).
 Om de bal naar links te laten bewegen, moet je `x = x - 1;` gebruiken. De code wordt dan:
 
-```c++
+```processing
 float x = 200;
 
 void setup()
@@ -221,7 +221,7 @@ void draw()
 
 In de eerste regel gebruiken we een variabele:
 
-```c++
+```processing
 float x = 50;
 ```
 
@@ -249,7 +249,7 @@ Als iemand je je leeftijd vraagt, dan weet je welk getal je moet zeggen.
 
 Terug naar de eerste regel van onze code:
 
-```c++
+```processing
 float x = 50;
 ```
 
@@ -284,7 +284,7 @@ Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar onder laten
 
 ## Bal naar rechts: oplossing 6
 
-```c++
+```processing
 float y = 0;
 
 void setup()
@@ -315,7 +315,7 @@ Nu gaan we de bal sneller en omhoog laten bewegen
 
 ## Bal naar rechts: oplossing 7
 
-```c++
+```processing
 float y = 200;
 
 void setup()

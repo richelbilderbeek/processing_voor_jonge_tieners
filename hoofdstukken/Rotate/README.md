@@ -6,7 +6,7 @@
 
 ![](Rotate_Intro.png)
 
-```c++
+```processing
 PImage plaatje;
 
 float x = 1150;

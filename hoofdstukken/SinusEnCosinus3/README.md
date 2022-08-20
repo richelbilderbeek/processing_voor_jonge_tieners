@@ -10,7 +10,7 @@ In deze les gaan we een sinus en cosinus gebruiken om een zonnestelsel te maken
 
 Type deze code over:
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -51,7 +51,7 @@ Je ziet een cirkel in het midden: de zon!
 
 ## Sinus en cosinus 3: oplossing 2 
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -87,7 +87,7 @@ Je ziet nu de Aarde heen en weer gaan
 
 ![Sinus en cosinus 3: opdracht 2](SinusEnCosinus3_3.png)
 
-```c++
+```processing
 float hoek_aarde = 0;
 
 void setup()

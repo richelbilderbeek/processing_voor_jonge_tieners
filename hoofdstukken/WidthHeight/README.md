@@ -6,7 +6,7 @@ In deze les leer je hoe handig `width` en `height zijn`
 
 ## `width` en `height`: intro
 
-```c++
+```processing
 void setup() 
 {
   size(256, 256);
@@ -35,7 +35,7 @@ Maak het venster nu 128 bij 128 pixels klein.
 
 ## `width` en `height`: oplossing
 
-```c++
+```processing
 void setup() 
 {
   size(128, 128);
@@ -95,7 +95,7 @@ Maak een programma wat een ovaal tekent die het scherm opvult:
 ## `width` en `height`: oplossing 2
 
 
-```c++
+```processing
 void setup() 
 {
   size(128, 128);
@@ -117,7 +117,7 @@ Zet het middelpunt van de cirkel op coordinaat `(0, 0)`.
 
 ## `width` en `height`: oplossing 3
 
-```c++
+```processing
 void setup() 
 {
   size(128, 128);
@@ -140,7 +140,7 @@ Gebruik `width` en/of `height`.
 
 ## `width` en `height`: oplossing 4
 
-```c++
+```processing
 void setup() 
 {
   size(128, 128);
@@ -162,7 +162,7 @@ Gebruik `width` en/of `height`.
 
 ## `width` en `height`: oplossing 5
 
-```c++
+```processing
 void setup() 
 {
   size(128, 128);
