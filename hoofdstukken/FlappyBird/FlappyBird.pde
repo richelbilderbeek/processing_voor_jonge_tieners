@@ -22,8 +22,6 @@ void draw()
   obstakel_x = obstakel_x - 2;
   y = y + snelheid_omlaag;
   snelheid_omlaag = snelheid_omlaag + 0.2;
-  //if ((x+(20*0.85)>obstakel_x-(20)&&(x+(20*0.85)<obstakel_x+(30)))&&(y+(20*0.85)>obstakel_y+50||y-(20*0.85)<obstakel_y-50))
-  //{y = obstakel_y;snelheid_omlaag = 0;} //this code makes you collide with the obstacles
   if (obstakel_x < -50)
   {
     obstakel_x = width + 50;
