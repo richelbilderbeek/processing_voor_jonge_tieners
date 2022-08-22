@@ -10,7 +10,7 @@ In deze les leren we hoe kunnen reageren op een muisklik.
 
 Type deze code over:
 
-```c++
+```processing
 float vijand_x = 0;
 float vijand_y = 0;
 

@@ -15,7 +15,7 @@ Je kunt (bijna) niet programmeren zonder `if`-statements.
 
 Dit is een bal die naar rechts gaat:
 
-```c++
+```processing
 float x = 50;
 
 void setup()
@@ -39,7 +39,7 @@ dan teleporteer je de bal naar rechts'. `if` is Engels voor 'als'.
 
 Zo zou dit kunnen:
 
-```c++
+```processing
 if (x > 200)
 {
   x = 100;
@@ -69,7 +69,7 @@ Zet de `if` tussen de code van het programma. Zet de `if` aan het eind van `draw
 
 De code wordt dan:
 
-```c++
+```processing
 float x = 50;
 
 void setup()
@@ -103,7 +103,7 @@ Zorg ervoor dat de ovaal helemaal naar de linkerkant van het scherm springt
  * Verander `float x = 50` naar `float x = 0` of `float x = -50`: allebei is goed.
  * Verander `x = 100` naar `x = 0` of `x = -50`: allebei is goed.
 
-```c++
+```processing
 float x = 50;
 
 void setup()
@@ -136,7 +136,7 @@ Zorg ervoor dat de ovaal helemaal naar rechts beweegt, voordat deze naar de link
 
 Verander `if (x > 200)` naar `if (x > 650)`.
 
-```c++
+```processing
 float x = -50;
 
 void setup()
@@ -166,7 +166,7 @@ We gaan nu een bal programmeren die eeuwig naar links gaat.
 
 Wat je nu moet weten is het `if` statement om te zeggen wanneer de `x` te klein is:
 
-```c++
+```processing
 if (x < 100)
 {
   x = 500;
@@ -194,7 +194,7 @@ Maak een bal die eeuwig naar links gaat:
 
 Dit is een eeuwig naar links gaande bal:
 
-```c++
+```processing
 float x = 650;
 
 void setup()
@@ -241,7 +241,7 @@ Schrijf een programma waarin een bal eeuwig omlaag gaat:
 
 ## Bal die eeuwig naar rechts gaat: oplossing 5
 
-```c++
+```processing
 float y = -50;
 
 void setup()
@@ -281,7 +281,7 @@ Als we code samenvoegen, gelden de volgende regels:
 
 ## Bal die eeuwig naar rechts gaat: oplossing 6
 
-```c++
+```processing
 float x = -50;
 float y = -50;
 

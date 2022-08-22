@@ -8,7 +8,7 @@ In deze les gaan we een 3D bal laten bewegen.
 
 Type deze code over:
 
-```c++
+```processing
 float x = 0;
 
 void setup() 
@@ -58,7 +58,7 @@ Als je goed kijkt zie je dat het witste gedeelte van de bal ook van plek verande
 
 ## 3D 2: oplossing 2 
 
-```c++
+```processing
 float x = 0;
 float y = 0;
 

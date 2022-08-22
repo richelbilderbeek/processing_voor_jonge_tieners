@@ -8,7 +8,7 @@ In deze les gaan we leren hoe je kunt meten of twee vierkanten botsen
 
 Type deze code over:
 
-```c++
+```processing
 float x1 = 150;
 float y1 = 100;
 float w1 = 75;
@@ -68,7 +68,7 @@ De vierkanten botsen nu horizontaal.
 
 ![](VierkantenBotsen2.png)
 
-```c++
+```processing
 // ...
 
 void setup()

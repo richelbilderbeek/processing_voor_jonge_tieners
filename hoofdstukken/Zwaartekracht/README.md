@@ -10,7 +10,7 @@ We gaan in deze les twee variabelen en twee `if`-statements gebruiken.
 
 Wat doet deze code?
 
-```c++
+```processing
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -59,7 +59,7 @@ Zorg dat het programma full-screen wordt
 
 ## Zwaartekracht: oplossing 2
 
-```c++
+```processing
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -105,7 +105,7 @@ Zorg dat de bal goed aan de onderkant stuitert.
 
 ## Zwaartekracht: oplossing 3
 
-```c++
+```processing
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -148,7 +148,7 @@ Zorg dat de bal goed aan de rechterkant stuitert.
 
 ## Zwaartekracht: oplossing 4
 
-```c++
+```processing
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -185,7 +185,7 @@ void draw()
 
 Voeg onderaan de `draw` functie toe:
 
-```c++
+```processing
 snelheid_omlaag += 0.1;
 ```
 

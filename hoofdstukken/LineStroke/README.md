@@ -10,7 +10,7 @@ In deze les gaan we leren hoe je gekleurde lijnen tekent.
 
 Run deze code:
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -49,7 +49,7 @@ Laat de lijn niet naar de rechteronderhoek, maar naar de rechterbovenhoek gaan.
 
 ## `line` en `stroke`: oplossing 2
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -73,7 +73,7 @@ Laat de lijn niet links in het midden, maar linksonder beginnen
 
 ## `line` en `stroke`: oplossing 3
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -97,7 +97,7 @@ Laat de lijn van linksonder naar rechtsboven gaan, maar gebruik nu `width` en `h
 
 ## Oplossing 4
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -123,7 +123,7 @@ Laat de lijn links op een willekeurige hoogte beginnen. Dit doe je met `random`
 
 ## Oplossing 5
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -147,7 +147,7 @@ Laat de lijn nu ook rechts op een willekeurige hoogte eindigen.
 
 ## `line` en `stroke`: oplossing 6
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -171,7 +171,7 @@ Zet voor `line` de regel `stroke(255, 0, 0);`
 
 ## `line` en `stroke`: oplossing 7
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -203,7 +203,7 @@ Maak de lijnen nu cyaan. Kijk naar figuur `Kleurencirkel` hoe je die maakt
 
 ## `line` en `stroke`: oplossing 8
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -234,7 +234,7 @@ Laat nu de roodwaarde een willeukeurig getal van 0 tot 256 worden.
 
 ## `line` en `stroke`: oplossing 9
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);

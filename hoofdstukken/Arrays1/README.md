@@ -11,7 +11,7 @@ de coordinaten van kogels, meteorieten, vijanden.
 
 Run deze code. Wat doet het?
 
-```c++
+```processing
 float x = 0;
 
 void setup()
@@ -56,7 +56,7 @@ Zorg dat er een tweede bal bijkomt.
 
 ## Arrays 1: oplossing 2
 
-```c++
+```processing
 float x1 = 0;
 float x2 = 100;
 
@@ -97,7 +97,7 @@ Zorg dat er een derde bal bijkomt.
 
 ## Arrays 1: oplossing 3
 
-```c++
+```processing
 float x1 = 0;
 float x2 = 100;
 float x3 = 200;
@@ -224,7 +224,7 @@ Hiermee lees je het eerste plekje (het laatje met index nul) en stop je dat in `
 
 Alles bij elkaar krijg je dit programma:
 
-```c++
+```processing
 float[] geheime_getallen;
 
 void setup()
@@ -248,7 +248,7 @@ Dit programma ziet er niet erg mooi uit. Het is bedoeld om je te laten hoe je ar
 
 Run onderstaande code.
 
-```c++
+```processing
 float[] xs;
 
 void setup()
@@ -297,7 +297,7 @@ Hee, hetzelfde als net!
 
 Run deze code:
 
-```c++
+```processing
 float[] xs;
 
 void setup()
@@ -366,7 +366,7 @@ Maak nu een vierde bal erbij.
 ## Arrays 1: oplossing 6
 
 
-```c++
+```processing
 float[] xs;
 
 void setup()
@@ -405,7 +405,7 @@ Maak nu het programma full-screen. Laat de ballen als ze rechts het scherm uitga
 
 ## Arrays 1: oplossing 7
 
-```c++
+```processing
 float[] xs;
 
 void setup()
