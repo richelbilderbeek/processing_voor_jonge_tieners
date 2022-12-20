@@ -1,6 +1,6 @@
 # `width` en `height`
 
-In deze les leer je hoe handig `width` en `height zijn`
+In deze les leer je hoe handig `width` en `height` zijn.
 
 ![De Gameboy heeft een scherm van 160 bij 144 pixels](Gameboy.jpg)
 
