@@ -8,7 +8,7 @@ In deze les gaan we 3D programmeren.
 
 Type deze code over:
 
-```c++
+```processing
 float x = 0;
 
 void setup() 
@@ -52,7 +52,7 @@ Als je goed kijkt zie je dat het witste gedeelte van de bal ook van plek verande
 
 ## 3D 1: oplossing 2 
 
-```c++
+```processing
 float x = 0;
 float y = 0;
 
@@ -88,7 +88,7 @@ Dit ziet er misschien anders uit dan je verwacht!
 
 ## 3D 1: oplossing 3
 
-```c++
+```processing
 float x = 0;
 float y = 0;
 float z = 0;

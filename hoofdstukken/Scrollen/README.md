@@ -7,7 +7,6 @@
 
 ![Intro](Scrollen_Intro.png)
 
-<<<<<<< HEAD
 Under den här lektionen ska vi göra en värld som skrollar.
 
 \pagebreak
@@ -17,10 +16,6 @@ Under den här lektionen ska vi göra en värld som skrollar.
 Skriv denna kod över:
 ```processing
 PImage bild;
-=======
-```c++
-PImage plaatje;
->>>>>>> parent of 910dbd4 (Merge pull request #3 from thelift112/master)
 
 float x = 200;
 float y = 160;

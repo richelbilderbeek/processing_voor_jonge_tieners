@@ -8,7 +8,7 @@ In deze les gaan we een 3D bal belichten.
 
 Type deze code over:
 
-```c++
+```processing
 float licht_richting_x = 1;
 
 void setup() 
@@ -50,7 +50,7 @@ Let op: er zijn maar drie standen mogelijk!
 
 ## 3D 4: oplossing 2 
 
-```c++
+```processing
 float licht_richting_x = 1;
 
 void setup() 
@@ -88,7 +88,7 @@ Let op: er zijn maar vijf standen mogelijk!
 
 ## 3D 4: oplossing 3 
 
-```c++
+```processing
 float licht_richting_x = 1;
 
 void setup() 

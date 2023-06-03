@@ -10,7 +10,7 @@ Plaatje van Terminator 2 the arcade game rail shooter
 
 Type deze code over en kijk wat er gebeurt:
 
-```c++
+```processing
 void setup()
 {
   size(300, 200);
@@ -40,7 +40,7 @@ Tips:
    
 ## Oplossing
 
-```c++
+```processing
 float x = 0;
 
 void setup()
@@ -71,7 +71,7 @@ Tips:
    
 ## Oplossing 2
 
-```c++
+```processing
 float x = 0;
 
 void setup()
@@ -99,7 +99,7 @@ groen en blauwwaarden blijven nul.
    
 ## Oplossing 3
 
-```c++
+```processing
 float x = 0;
 
 void setup()

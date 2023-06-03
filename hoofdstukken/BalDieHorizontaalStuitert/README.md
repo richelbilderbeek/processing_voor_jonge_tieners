@@ -8,7 +8,7 @@ In deze les gaan we een bal horizontaal laten stuiteren.
 
 ## Bal die horizontaal stuitert: opdracht 1
 
-```c++
+```processing
 float x = 300;
 float snelheid = 2;
 
@@ -37,7 +37,7 @@ Type deze code over. Zet de waarde van `snelheid` op `1`. Wat zie je?
 Je ziet dat de bal rustig naar rechts beweegt. Als de bal
 rechts het beeld uit gaat, komt deze vanaf links weer in het beeldscherm.
 
-```c++
+```processing
 float x = 300;
 float snelheid = 1;
 
@@ -71,7 +71,7 @@ Zet de waarde van `snelheid` op `0`. Wat zie je?
 
 De bal staat nu stil
 
-```c++
+```processing
 float x = 300;
 float snelheid = 0;
 
@@ -108,7 +108,7 @@ Zet de waarde van `snelheid` op `-1`. Wat zie je?
 
 De bal gaat nu naar links en komt niet meer in beeld.
 
-```c++
+```processing
 float x = 300;
 float snelheid = -1;
 
@@ -143,7 +143,7 @@ Doe dit door een tweede `if` te maken
 
 ## Bal die horizontaal stuitert: oplossing 4
 
-```c++
+```processing
 float x = 300;
 float snelheid = -1;
 
@@ -203,7 +203,7 @@ Laat de bal nu van links naar rechts stuiteren
 
 ## Bal die horizontaal stuitert: oplossing 6
 
-```c++
+```processing
 float x = 300;
 float snelheid = 1;
 
@@ -239,7 +239,7 @@ Laat de bal nu met een snelheid van 2 pixels per keer bewegen.
 
 ## Bal die horizontaal stuitert: oplossing 7
 
-```c++
+```processing
 float x = 300;
 float snelheid = 2;
 
@@ -287,7 +287,7 @@ van|naar
 
 ![Opdracht 8](BalDieHorizontaalStuitert8.png)
 
-```c++
+```processing
 float x = 300;
 float snelheid = 2;
 

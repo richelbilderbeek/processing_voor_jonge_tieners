@@ -12,7 +12,7 @@ In deze les gaan we een puntje besturen met het toetsenbord.
 
 Dit is onze begincode. Type deze code over:
 
-```c++
+```processing
 float x = 0;
 float y = 0;
 
@@ -61,7 +61,7 @@ Zorg ervoor dat als de speler rechts het beeld uit gaat, dat
 
 Je hebt een `if`-statement nodig:
 
-```c++
+```processing
 float x = 0;
 float y = 0;
 
@@ -108,7 +108,7 @@ Zorg ervoor dat *ook* als de speler bovenaan het beeld uit gaat, dat
 
 ## Toetsenbord 3: oplossing 2
 
-```c++
+```processing
 float x = 0;
 float y = 0;
 
