@@ -1,4 +1,4 @@
-PImage bild;
+/*PImage bild;
 
 float x = 200;
 float y = 160;
@@ -25,4 +25,20 @@ void draw()
     if (key == 's') y = y + 1;
   }
   ellipse(x + (width / skala / 2), y + (height / skala / 2), 10, 10);
+}*/
+PImage bild;
+
+float x = 200;
+float y = 160;
+
+void setup() 
+{
+  size(600, 400);
+  bild = loadImage("karta.png");
+}
+
+void draw() 
+{
+  background(255, 255, 255);
+  image(bild, -x, -y);
 }
