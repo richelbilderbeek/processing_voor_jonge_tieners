@@ -2,7 +2,7 @@
 
 :construction: Deze les is nog niet af
 
-```processing
+```c++
 float x = 0;
 float y = 0;
 float snelheid_omlaag = 1;

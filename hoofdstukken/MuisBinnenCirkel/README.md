@@ -8,7 +8,7 @@ In deze les gaan we leren hoe je kunt kijken of de muiscursor binnen een cirkel 
 
 Type deze code over:
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -47,7 +47,7 @@ Vervang de andere `150`-en in de code door `cirkel_midden_x`.
 
 ## Muis binnen cirkel: oplossing 2
 
-```processing
+```c++
 float cirkel_midden_x = 150;
 
 void setup()
@@ -72,7 +72,7 @@ void draw()
 
 Voeg de volgende regel toe aan de `setup` functie:
 
-```processing
+```c++
 cirkel_midden_x = random(width);
 ```
 
@@ -82,7 +82,7 @@ Wat zie je? Start het programma meerdere keren!
 
 ## Muis binnen cirkel: oplossing 3
 
-```processing
+```c++
 float cirkel_midden_x = 150;
 
 void setup()
@@ -112,7 +112,7 @@ In `setup` krijgt deze een willekeurig getal tot `height`.
 
 ## Muis binnen cirkel: oplossing 4
 
-```processing
+```c++
 float cirkel_midden_x = 150;
 float cirkel_midden_y = 100;
 
@@ -146,7 +146,7 @@ Wat gaat er mis?
 
 ## Muis binnen cirkel: oplossing 5
 
-```processing
+```c++
 float cirkel_midden_x = 150;
 float cirkel_midden_y = 100;
 float cirkel_doorsnede = 100;

@@ -8,7 +8,7 @@
 
 Run deze code. Wat zie je?
 
-```processing
+```c++
 void setup() 
 {
   fullScreen();
@@ -45,7 +45,7 @@ met een breedte van 200 en een hoogte van 100 pixels.
 
 ## `fullScreen`: oplossing 2
 
-```processing
+```c++
 void setup() 
 {
   fullScreen();
@@ -72,7 +72,7 @@ Zet nu de rechthoek in het midden van het scherm.
 
 ## `fullScreen`: oplossing 3
 
-```processing
+```c++
 void setup() 
 {
   fullScreen();
@@ -97,7 +97,7 @@ en een hoogte van 400 pixels.
 
 ## `fullScreen`: oplossing 4
 
-```processing
+```c++
 void setup() 
 {
   fullScreen();
@@ -122,7 +122,7 @@ en 500 pixels hoog is.
 
 ## `fullScreen`: oplossing 5
 
-```processing
+```c++
 void setup() 
 {
   fullScreen();

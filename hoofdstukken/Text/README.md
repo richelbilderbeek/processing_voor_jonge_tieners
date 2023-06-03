@@ -13,7 +13,7 @@ tekstavonturen ooit:
 
 Run deze code:
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -53,7 +53,7 @@ void draw()
 
 Voeg na `ellipse` de volgende regel toe:
 
-```processing
+```c++
 text(x, 10, 20);
 ```
 
@@ -63,7 +63,7 @@ text(x, 10, 20);
 
 ![`text`: oplossing 2](Text2.png)
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -109,7 +109,7 @@ Het programma laat nu de `x` zien. Laat eronder nu ook de `y` coordinaat op het 
 
 ## `text`: oplossing 3
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -152,7 +152,7 @@ Na de eerste `text`, zet de fill op groen.
 
 ## `text`: oplossing 4
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -197,7 +197,7 @@ Gebruik `width` om het midden te bepalen.
 
 ## `text`: oplossing 5
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -244,7 +244,7 @@ Zet deze waarde op het scherm, in het wit.ex
 
 ## `text`: oplossing 6
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -292,7 +292,7 @@ Maak `botsingen` hoger als de bal teken de rechter muur komt.
 
 ## `text`: oplossing 7
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;

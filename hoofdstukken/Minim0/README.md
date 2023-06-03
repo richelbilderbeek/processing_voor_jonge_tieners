@@ -33,7 +33,7 @@ Add|Doe erbij
 
   4. Run deze code:
 
-```processing
+```c++
 import ddf.minim.*;
 
 Minim minim;

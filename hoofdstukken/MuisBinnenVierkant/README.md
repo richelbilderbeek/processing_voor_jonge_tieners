@@ -8,7 +8,7 @@ In deze les gaan we leren hoe je kunt kijken of de muiscursor binnen een vierkan
 
 Type deze code over:
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -53,7 +53,7 @@ links bent van de rechterkant van het vierkant.
 
 ## Muis binnen vierkant: oplossing 2
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -76,7 +76,7 @@ We gaan nu de `if` statements combineren!
 
 Vervang de `if` die je nu hebt door dit:
 
-```processing
+```c++
   if (mouseX > 25 && mouseX < 100)
   {
     fill(255, 0, 0);  
@@ -90,7 +90,7 @@ Vervang de `if` die je nu hebt door dit:
 
 ## Muis binnen vierkant: oplossing 3
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -117,7 +117,7 @@ Maak nu het vierkant rood als de muiscursor onder de bovenkant van het vierkant 
 
 ## Muis binnen vierkant: oplossing 4
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);

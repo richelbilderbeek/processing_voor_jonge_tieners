@@ -6,7 +6,7 @@ In deze les gaan we een bal schuin laten stuiteren.
 
 ## Bal die schuin stuitert: opdracht 1
 
-```processing
+```c++
 float x = 150;
 float snelheid_naar_rechts = 1;
 
@@ -45,7 +45,7 @@ void draw()
 
 ## Bal die schuin stuitert: oplossing 1
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -83,7 +83,7 @@ Geef deze de beginwaarde van `1`. De bal hoeft nog niet te bewegen.
 
 ## Bal die schuin stuitert: oplossing 2
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -121,7 +121,7 @@ Laat de bal nu ook naar onder bewegen. Hij hoeft nog niet te stuiteren.
 
 ## Bal die schuin stuitert: oplossing 3
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;
@@ -160,7 +160,7 @@ Laat de bal nu omhoog stuiteren als de bal de onderkant van het scherm raakt.
 
 ## Bal die schuin stuitert: oplossing 4
 
-```processing
+```c++
 float x = 150;
 float y = 100;
 float snelheid_naar_rechts = 1;

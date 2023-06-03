@@ -6,7 +6,7 @@ In deze les leer je hoe handig `width` en `height zijn`
 
 ## `width` en `height`: intro
 
-```processing
+```c++
 void setup() 
 {
   size(256, 256);
@@ -36,7 +36,7 @@ En maak het ovaal in het midden van de nieuwe venstergrootte.
 
 ## `width` en `height`: oplossing
 
-```processing
+```c++
 void setup() 
 {
   size(128, 128);
@@ -96,7 +96,7 @@ Maak een programma wat een ovaal tekent die het scherm opvult:
 ## `width` en `height`: oplossing 2
 
 
-```processing
+```c++
 void setup() 
 {
   size(128, 128);
@@ -118,7 +118,7 @@ Zet het middelpunt van de cirkel op coordinaat `(0, 0)`.
 
 ## `width` en `height`: oplossing 3
 
-```processing
+```c++
 void setup() 
 {
   size(128, 128);
@@ -141,7 +141,7 @@ Gebruik `width` en/of `height`.
 
 ## `width` en `height`: oplossing 4
 
-```processing
+```c++
 void setup() 
 {
   size(128, 128);
@@ -163,7 +163,7 @@ Gebruik `width` en/of `height`.
 
 ## `width` en `height`: oplossing 5
 
-```processing
+```c++
 void setup() 
 {
   size(128, 128);

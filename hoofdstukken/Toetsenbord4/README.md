@@ -12,7 +12,7 @@ In deze les gaan we een kanon besturen met de pijltjes.
 
 Dit is onze begincode. Type deze code over:
 
-```processing
+```c++
 float hoek = 1.5707963268; // De helft van pi
 
 void setup()
@@ -60,7 +60,7 @@ Het kanon moet dan blijven op die hoek.
 
 Je hebt een `if`-statement nodig:
 
-```processing
+```c++
 float hoek = 1.5707963268; // De helft van pi
 
 void setup()

@@ -10,7 +10,7 @@ In deze les gaan we een sinus en cosinus gebruiken om een maan om een planeet te
 
 Type deze code over:
 
-```processing
+```c++
 float hoek = 0;
 
 void setup()
@@ -54,7 +54,7 @@ Je ziet een kwart cirkel in de linkerbovenhoek.
 
 ## Sinus en cosinus 2: oplossing 2 
 
-```processing
+```c++
 float hoek = 0;
 
 void setup()
@@ -93,7 +93,7 @@ Je ziet nu een patroon.
 
 ![Sinus en cosinus 3: opdracht 2](SinusEnCosinus2_3.png)
 
-```processing
+```c++
 float hoek = 0;
 
 void setup()

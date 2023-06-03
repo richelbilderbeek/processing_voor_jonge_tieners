@@ -25,7 +25,7 @@ Processing begint met een leeg programma zonder code:
 
 Dit is de programmeercode die we gaan gebruiken:
 
-```processing
+```c++
 void setup()
 {
   size(256,256);  

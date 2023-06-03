@@ -13,7 +13,7 @@ dat veel met cirkels werkt:
 
 Run deze code
 
-```processing
+```c++
 float x = -50;
 float snelheid = 1;
 
@@ -54,7 +54,7 @@ zodat de ovaal twee keer zo hoog wordt.
 
 ## `ellipse` en `background`: oplossing 2
 
-```processing
+```c++
 float x = -50;
 float snelheid = 1;
 
@@ -84,7 +84,7 @@ void draw()
 
 Voeg als eerste regel van `draw` toe: 
 
-```processing
+```c++
 background(255, 0, 0);
 ```
 
@@ -92,7 +92,7 @@ background(255, 0, 0);
 
 ## `ellipse` en `background`: oplossing 3
 
-```processing
+```c++
 float x = -50;
 float snelheid = 1;
 
@@ -163,7 +163,7 @@ Zet de regel met `background` nu na `size` (binnen `setup`).
 
 ![Oplossing 5](EllipseBackground5.png)
 
-```processing
+```c++
 float x = -50;
 float snelheid = 1;
 
@@ -199,7 +199,7 @@ blauw waarde moeten alledrie willekeurig zijn.
 
 ## `ellipse` en `background`: oplossing 6
 
-```processing
+```c++
 float x = -50;
 float snelheid = 1;
 

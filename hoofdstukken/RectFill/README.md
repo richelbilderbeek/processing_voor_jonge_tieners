@@ -15,7 +15,7 @@ maar de `rect` functie werkt gemakkelijker.
 
 Run deze code
 
-```processing
+```c++
 float x = -50;
 
 void setup()
@@ -46,7 +46,7 @@ void draw()
 
 Voeg de volgende extra regel toe, na `ellipse(x, height / 2, 100, 100);`:
 
-```processing
+```c++
   rect(x, height / 2, 100, 100);
 ```
 
@@ -60,7 +60,7 @@ Voeg de volgende extra regel toe, na `ellipse(x, height / 2, 100, 100);`:
 
 ![Oplossing 2](RectFill2.png)
 
-```processing
+```c++
 float x = -50;
 
 void setup()
@@ -92,7 +92,7 @@ Teken de rechthoek nu over de ovaal. Doe dit door van de `x` en `y` coordinaat 5
 
 ## `rect` en `fill`: oplossing 3
 
-```processing
+```c++
 float x = -50;
 
 void setup()
@@ -127,7 +127,7 @@ kun je zien in figuur `Kleurencirkel`.
 
 ## `rect` en `fill`: oplossing 4
 
-```processing
+```c++
 float x = -50;
 
 void setup()
@@ -153,7 +153,7 @@ void draw()
 
 Voeg de volgende regel toe na `stroke(255, 255, 0);`:
 
-```processing
+```c++
 fill(x, 0, 255);
 ```
 
@@ -163,7 +163,7 @@ fill(x, 0, 255);
 
 ![Opdracht 5](RectFill5.png)
 
-```processing
+```c++
 float x = -50;
 
 void setup()
@@ -200,7 +200,7 @@ Elke keer wordt `groen` twee hoger.
 
 ### `rect` en `fill`: oplossing 6
 
-```processing
+```c++
 float x = -50;
 float groen = 0;
 
@@ -236,7 +236,7 @@ dat als `groen` meer is dan 255, dat groen dan nul wordt
 
 ## `rect` en `fill`: oplossing 7
 
-```processing
+```c++
 float x = -50;
 float groen = 0;
 
@@ -275,7 +275,7 @@ Maak de blauwheid van de invulkleur een willekeurig getal van nul tot 256.
 
 ## `rect` en `fill`: oplossing 8
 
-```processing
+```c++
 float x = -50;
 float groen = 0;
 

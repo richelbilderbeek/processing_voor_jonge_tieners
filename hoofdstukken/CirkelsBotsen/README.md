@@ -8,7 +8,7 @@ In deze les gaan we leren hoe je kunt meten of twee cirkels botsen
 
 Type deze code over:
 
-```processing
+```c++
 float x1 = 150;
 float y1 = 100;
 float d1 = 180;
@@ -61,7 +61,7 @@ hoogte van `d2`.
 
 ## Cirkels botsen: oplossing 2
 
-```processing
+```c++
 // ...
 float x2 = 30;
 float y2 = 100;
@@ -88,7 +88,7 @@ Wat zie je?
 
 Voeg toe aan de `draw` functie:
 
-```processing
+```c++
 x2 = x2 + random(-1, 1);
 y2 = y2 + random(-1, 1);
 ```

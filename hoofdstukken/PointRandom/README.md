@@ -26,7 +26,7 @@ Dat zie je goed bij oude games: die hebben minder pixels:
 
 Run de volgende code:
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -57,7 +57,7 @@ Teken een tweede puntje tussen de eerste en de bovenkant van het venster.
 
 ## `point` en `random`: oplossing 2
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -77,7 +77,7 @@ op de helft van de hoogte van het scherm. Verander `point(150,100);` naar iets m
 
 ## `point` en `random`: oplossing 3
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -105,7 +105,7 @@ Verander `point(150, 50);` naar iets met `width` en `height`.
 
 ## `point` en `random`: oplossing 4
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -133,7 +133,7 @@ Teken een nieuwe pixel, in de linkerbovenhoek van het scherm.
 
 ## `point` en `random`: oplossing 5
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -163,7 +163,7 @@ Gebruik `width - 1` als eerste getal binnen de ronde haakjes van `point`.
 
 ## `point` en `random`: oplossing 6
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -188,7 +188,7 @@ Teken twee pixels erbij, in de onderste twee hoeken. Gebruik `width - 1` en `hei
 
 ## `point` en `random`: oplossing 7
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -209,7 +209,7 @@ void draw()
 
 Run deze code:
 
-```processing
+```c++
 void setup()
 {
   size(300, 200);
@@ -244,7 +244,7 @@ Zorg dat de lijn van puntjes op de halve hoogte van het scherm blijft.
 
 ## `point` en `random`: oplossing 9
 
-```processing
+```c++
 void setup()
 {
   size(400, 100);

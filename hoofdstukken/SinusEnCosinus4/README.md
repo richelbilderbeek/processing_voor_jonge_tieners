@@ -10,7 +10,7 @@ In deze les gaan we een sinus en cosinus gebruiken om een kogel te schieten
 
 Type deze code over:
 
-```processing
+```c++
 float hoek_kanon = 0;
 
 void setup()
@@ -53,7 +53,7 @@ Je ziet een cirkel in het midden, met een kanon
 
 ## Sinus en cosinus 4: oplossing 2 
 
-```processing
+```c++
 float hoek_kanon = 0;
 
 void setup()
@@ -83,7 +83,7 @@ void draw()
 
 Tip:
 
-```processing
+```c++
 if (keyPressed)
 {
   if (key == ' ')
@@ -100,7 +100,7 @@ if (keyPressed)
 
 ![Sinus en cosinus 4: opdracht 3](SinusEnCosinus4_3.png)
 
-```processing
+```c++
 float hoek_kanon = 0;
 
 void setup()
@@ -143,7 +143,7 @@ void draw()
 
 ## Sinus en cosinus 4: oplossing 4
 
-```processing
+```c++
 float hoek_kanon = 0;
 float x_kogel = 0;
 float y_kogel = 0;
@@ -190,7 +190,7 @@ void draw()
 
 ## Sinus en cosinus 4: oplossing 5
 
-```processing
+```c++
 float hoek_kanon = 0;
 float x_kogel = 0;
 float y_kogel = 0;
@@ -238,7 +238,7 @@ void draw()
 
 ## Sinus en cosinus 4: oplossing 6
 
-```processing
+```c++
 float hoek_kanon = 0;
 float x_kogel = 0;
 float y_kogel = 0;

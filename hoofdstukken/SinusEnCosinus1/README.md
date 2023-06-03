@@ -10,7 +10,7 @@ In deze les gaan we een sinus en cosinus tekenen.
 
 Type deze code over:
 
-```processing
+```c++
 float x = 0;
 
 void setup()
@@ -54,7 +54,7 @@ Je ziet een soort stippellijn aan de bovenkant.
 
 ## Sinus en cosinus 1: oplossing 2 
 
-```processing
+```c++
 float x = 0;
 
 void setup()
@@ -95,7 +95,7 @@ Je ziet nu een patroon.
 
 ![Sinus en cosinus 3: opdracht 2](SinusEnCosinus1_3.png)
 
-```processing
+```c++
 float x = 0;
 
 void setup()
@@ -132,7 +132,7 @@ Je ziet nu een golf: een sinus!.
 
 ![Sinus en cosinus 1: opdracht 4](SinusEnCosinus1_4.png)
 
-```processing
+```c++
 float x = 0;
 
 void setup()
@@ -163,7 +163,7 @@ Je ziet nu een golf: een sinus!.
 
 ![Sinus en cosinus 1: opdracht 5](SinusEnCosinus1_5.png)
 
-```processing
+```c++
 float x = 0;
 
 void setup()

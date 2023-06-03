@@ -8,7 +8,7 @@ In deze les gaan we een 3D bal en kubus laten bewegen.
 
 Type deze code over:
 
-```processing
+```c++
 float x1 = 0;
 float x2 = 0;
 
@@ -56,7 +56,7 @@ Je ziet een kubus en een bal die stilstaan
 
 ## 3D 3: oplossing 2 
 
-```processing
+```c++
 float x1 = 0;
 float x2 = 0;
 float y1 = 0;

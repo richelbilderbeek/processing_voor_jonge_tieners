@@ -10,7 +10,7 @@ Nog meer arrays!
 
 Run deze code:
 
-```processing
+```c++
 float x1 = 160;
 float y1 = 100;
 
@@ -47,7 +47,7 @@ Maak een tweede rookdeeltje.
 
 ## Arrays 2: oplossing 2
 
-```processing
+```c++
 float x1 = 160;
 float y1 = 100;
 float x2 = 160;
@@ -90,7 +90,7 @@ Gebruik nu een array, zonder for loop.
 
 ## Arrays 2: oplossing 3
 
-```processing
+```c++
 float[] xs;
 float[] ys;
 
@@ -132,7 +132,7 @@ Gebruik nu for loops. Maak zowel array `xs` en `ys` drie laatjes groot.
 
 ## Arrays 2: oplossing 4
 
-```processing
+```c++
 float[] xs;
 float[] ys;
 
@@ -179,7 +179,7 @@ Elk rookdeeltje krijgt nu een eigen rode randkleur:
 
 ## Arrays 2: oplossing 5
 
-```processing
+```c++
 float[] xs;
 float[] ys;
 float[] rs; //Roodwaarden

@@ -10,7 +10,7 @@ In deze les gaan we met Minim een muziekje laten afspelen!
 
 Save deze code. Run deze code. Wat zie je?
    
-```processing
+```c++
 import ddf.minim.*;
 Minim minim;
 AudioPlayer player;
@@ -64,7 +64,7 @@ Laat de muziek opnieuw afspelen als je op 'r' (van 'Rewind') drukt.
 
 ## Minim 1: oplossing 2
 
-```processing
+```c++
 //...
 
 void draw()
@@ -83,7 +83,7 @@ void draw()
 
 Laat de muziek pauzeren als je op 'p' (van 'Pauze') drukt.
 
-```processing
+```c++
 //...
 
 void draw()
