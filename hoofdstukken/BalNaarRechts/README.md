@@ -188,6 +188,7 @@ Haha, deze les heet 'Bal naar rechts', toch gaan we ook een bal naar links laten
 ![Bal naar rechts: opdracht 5](BalNaarRechts_5.png)
 
 Laat de bal nu aan de rechterkant van het scherm beginnen en naar links gaan.
+En zorg ervoor dat de bal op halve snelheid gaat.
 
 \pagebreak
 

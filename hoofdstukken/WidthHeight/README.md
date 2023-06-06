@@ -31,7 +31,8 @@ Type bovenstaande code over en run deze.
 
 ![`width` en `height`: opdracht 1](WidthHeight_1.png)
 
-Maak het venster nu 128 bij 128 pixels klein.
+Maak nu het venster en ovaal 128 bij 128 pixels klein.
+En maak het ovaal in het midden van de nieuwe venstergrootte.
 
 ## `width` en `height`: oplossing
 
